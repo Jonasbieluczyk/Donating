@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1643339782",
+    "firebase_url": "https://donatingthings.firebaseio.com",
+    "project_id": "donatingthings",
+    "storage_bucket": "donatingthings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1643339782:android:d06b007287af35a69a6387",
+        "android_client_info": {
+          "package_name": "com.donating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1643339782-1pl3064evegb2q6ee3speco9al61qps9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvRNN9rnoAtWj2G4UBNVV6opMs8LIvdeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1643339782-1pl3064evegb2q6ee3speco9al61qps9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
